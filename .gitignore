@@ -1,0 +1,20 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.log
+
+# Ignore virtual environments (if any)
+env/
+venv/
+
+# Model outputs and received files
+received_images/
+
+# Ignore frontend/UI and extra scripts not part of backend API
+streamlit_app.py
+home_page.jpeg
+touch .dockerignore
+
+# OS/system files
+.DS_Store
+Thumbs.db
