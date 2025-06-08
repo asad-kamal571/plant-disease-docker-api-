@@ -1,0 +1,15 @@
+__pycache__/
+*.csv
+*.zip
+*.tar
+*.tar.gz
+*.h5
+*.mp4
+*.mov
+.DS_Store
+.env
+.git
+*.ipynb
+*.log
+*.pyc
+.gitignore
